@@ -1,23 +1,23 @@
 /*
-Kullanıcıdan 1-7 arası sayı isteyin.
-Yazacağınız kod, ilgili sayının, haftanın
-hangi gününe ait olduğunu ekrana yazdırsın,
-ayrıca o gün hafta sonu mu onu da yazdırsın.
+KullanÄ±cÄ±dan 1-7 arasÄ± sayÄ± isteyin.
+YazacaÄŸÄ±nÄ±z kod, ilgili sayÄ±nÄ±n, haftanÄ±n
+hangi gÃ¼nÃ¼ne ait olduÄŸunu ekrana yazdÄ±rsÄ±n,
+ayrÄ±ca o gÃ¼n hafta sonu mu onu da yazdÄ±rsÄ±n.
 Sayi giriniz: 5
 Cuma
-Hafta içi
+Hafta iÃ§i
 Sayi giriniz: 6
 Cumartesi
 Hafta sonu
 Sayi giriniz: 8
-Hatalı değer girdiniz.
+HatalÄ± deÄŸer girdiniz.
 Sayi giriniz: -3
-Hatalı değer girdiniz.
+HatalÄ± deÄŸer girdiniz.
 */
 
-// versiyon 1 pztesi salı carş yazsin.
-// versiyon 2 ekstradan hafta içi hafta sonu yazsın
-// versiyon 3 hatalı giriş için uyarı versin
+// versiyon 1 pztesi salÄ± carÅŸ yazsin.
+// versiyon 2 ekstradan hafta iÃ§i hafta sonu yazsÄ±n
+// versiyon 3 hatalÄ± giriÅŸ iÃ§in uyarÄ± versin
 
 #include<stdio.h>
 int main(){
